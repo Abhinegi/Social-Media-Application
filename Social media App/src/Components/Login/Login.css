@@ -1,0 +1,32 @@
+.loginBox{
+    position: relative;
+    top:25%;
+    background-color:#7386D5 ;
+    margin: auto;
+    padding: 40px;
+    width: 50%;
+    border-radius: 20px;
+}
+
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px gray;
+    color: whitesmoke;
+}
+
+
+.heading{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.signupLink{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    text-align: center;
+    cursor: pointer;
+}

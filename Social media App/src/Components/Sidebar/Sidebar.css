@@ -1,0 +1,20 @@
+@media only screen and (min-width: 1000px) {
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.sidebar {
+    border-radius: 10px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    background: #7386D5;
+    color: #fff;
+    padding:20px 15px;
+    margin-top: 5px;
+}
+}

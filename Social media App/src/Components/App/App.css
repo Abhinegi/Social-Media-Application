@@ -1,0 +1,22 @@
+@media only screen and (min-width: 600px) {
+.split {
+    height: 100%;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .left {
+    left: 0;
+    width:26%;
+    position: fixed;
+  }
+
+  .right {
+    right: 0;
+    width: 74%;
+    position: absolute;
+  }
+
+}

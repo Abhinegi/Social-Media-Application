@@ -1,0 +1,41 @@
+.signupBox{
+    position: relative;
+    top:10%;
+    background-color:#7386D5 ;
+    margin: auto;
+    padding: 40px;
+    width: 50%;
+    border-radius: 20px;
+    border: 2px solid black;
+    box-shadow: 1px 1px 2px 2px gray;
+}
+
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px gray;
+    color: whitesmoke;
+}
+
+
+.noteText{
+    color:green;
+    font-size: 12px;
+}
+
+.passwordStrength{
+    color:white;
+    font-size: 15px;
+}
+
+
+.loginLink{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    text-align: center;
+    cursor: pointer;
+}
+
+

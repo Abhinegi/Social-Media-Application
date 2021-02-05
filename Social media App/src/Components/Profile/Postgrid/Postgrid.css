@@ -1,0 +1,17 @@
+.imagePostgrid{
+    width: 30vw;
+    height: 30vh;
+    padding: 0px!important;
+    border:2px solid black;
+}
+
+.rowPostgrid{
+    margin-left: 2vw !important;
+    margin-right: 2vw !important;
+}
+
+.modalImage{
+    width:100%;
+    height:100%;
+}
+

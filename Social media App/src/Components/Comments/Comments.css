@@ -1,0 +1,13 @@
+.commentInput{
+    padding-top: 10px;
+}
+
+.input{
+    margin-left: 50px;
+}
+
+.commentModal{
+    background-color: #7386D5;
+    border: 2px solid gray;
+    box-shadow: 2px 2px 3px 2px gray;
+}

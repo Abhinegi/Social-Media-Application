@@ -1,0 +1,41 @@
+.profileForm{
+    padding: 20px 20px 0px 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.profileImage{
+    width:30%;
+    height: 30vh;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 1px 1px 2px 2px black;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.imageInput{
+    display: block;
+    margin-top: 20px;
+}
+
+.imageDiv{
+    position: relative;
+    left:30%;
+}
+
+.clearbutton{
+    margin-top: 10px;
+}
+
+.profileImage2{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+
+label{
+    color:black;
+    font-weight: bold;
+}
